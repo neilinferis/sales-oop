@@ -1,5 +1,5 @@
 <?php
-
+// this is a test for our second commit
     class Database {
         private $server_name = "localhost";
         private $db_username = "root";
